@@ -21,4 +21,4 @@ b(scrollable=True).scroll(steps=10)
 b(text="Clock").click()
 
 b.press("back")
-b.press("back")
+
